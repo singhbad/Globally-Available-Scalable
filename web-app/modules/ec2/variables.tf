@@ -1,6 +1,6 @@
 variable "subnet_id" {
   type        = string
-  description = "Subnet ID where EC2 will be launched"
+  description = "Subnet ID where EC2 will be launchedd"
 }
 
 variable "security_group_id" {
